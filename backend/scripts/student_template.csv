@@ -1,0 +1,4 @@
+name,email,password,registerNo,department,year,cgpa
+John Doe,john@example.com,Pass123,2021BCS001,CSBS,1st,8.5
+Jane Smith,jane@example.com,Pass456,2021BCS002,CSBS,2nd,9.0
+Bob Wilson,bob@example.com,Pass789,2021BCS003,ECE,3rd,7.8
